@@ -1,1 +1,3 @@
-Funambol Connector for Famundo.com
+** Funambol 6.5 Connector for http://www.famundo.com ** 
+
+The connector is meant to run on the Funambol server and integrates with the Famundo.com API for syncing calendar and contact items. 
